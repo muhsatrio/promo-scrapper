@@ -5,12 +5,12 @@ const fs = require('fs');
 // Constant definition
 const maxPage = 14;
 const rawCategories = [
-    'Travel_and Entertainment',
+    'Travel_and Entertainmentttttt',
     'Lifestyle and Wellness',
     'Food and Baverage',
-    'Gadget and Electronics',
+    'Gadget and Electronicssssssss',
     'Daily Needs and Home Appliances',
-    'Other'
+    'Otherssss'
 ];
 const urlGlobal = 'https://www.bankmega.com/promolainnya.php';
 
